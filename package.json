@@ -1,8 +1,8 @@
 {
-  "name": "electron-webview-simple",
+  "name": "electron-simple-webview",
   "version": "1.0.0",
   "main": "main.js",
-  "repository": "https://github.com/osvaldokalvaitir/electron-webview-simple.git",
+  "repository": "https://github.com/osvaldokalvaitir/electron-simple-webview.git",
   "author": "Osvaldo Kalvaitir Filho <osvaldokalvaitir@outlook.com>",
   "license": "MIT",
   "scripts": {
