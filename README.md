@@ -1,58 +1,61 @@
-# Electron - Webview Simple
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/electron-simple-webview/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/electron-simple-webview.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/electron-simple-webview.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/electron-simple-webview.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/electron-simple-webview.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/electron-simple-webview.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/electron-simple-webview.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  Electron - Simple Webview
+</h3>
 
-Aplicação Webview Simple usando Electron.
+<p align="center">
+  :electron: Simple Webview Application using Electron
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/electron-simple-webview.svg?color=00A83A">
 
-- [Capturas de Tela](#capturas-de-tela)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/electron-simple-webview.svg?color=00A83A">
 
-  - [Principal](#principal)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+<p align="center">
+  <a href="#computer-demo">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+## :computer: Demo
 
-  - [Execução do Projeto](#execução-do-projeto)
-  
-- [Utilizados no Projeto](#utilizados-no-projeto)
+![Demo](/.github/assets/demo.png)
 
-  - [Bibliotecas](#bibliotecas)
+## :wrench: Install and run
 
-## Capturas de Tela
+Open terminal:
 
-### Principal
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/electron-simple-webview
 
-![Main](/.github/assets/main.png)
-Nesta única tela, aparece no canto inferior direito o webview criado, sendo possível também acessar o DevTools por meio do atalho Cmd/Ctrl + J.
+# Entry in folder
+cd electron-simple-webview
 
-## Desenvolvimento
+# Install deps with npm or yarn
+npm install | yarn
 
-### Configuração do Ambiente
+# Launch the app with npm or yarn
+npm start | yarn start
+```
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+## :memo: License
 
-### Instalação do Projeto
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+---
 
-### Execução do Projeto
-
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/electron.md) e siga `Execução de Projeto para Desenvolvimento`.
-
-## Utilizados no Projeto
-
-### Bibliotecas
-
-- [Electron](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/electron.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
